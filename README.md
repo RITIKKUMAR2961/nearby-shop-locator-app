@@ -1,4 +1,28 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# 🧭 Nearby Shop Locator App
+
+A **React Native** app that locates and displays nearby shops based on the user's current location. Designed with a clean UI, light/dark theme toggle, and optimized to work within a user-defined radius.
+
+---
+
+## 📱 Features
+
+- 📍 Fetches real-time user location
+- 🗺️ Displays nearby shops with distance and image
+- 🌗 Light/Dark theme toggle
+- ⚡ Shimmer loading animation
+- 🔍 Adjustable search distance (e.g., 2 km, 5 km, etc.)
+- 🚫 Shows "Not available in your area" if no shops nearby
+
+---
+
+## 🚀 Getting Started
+
+### . Clone the Repository
+
+```bash
+git clone https://github.com/RITIKKUMAR2961/nearby-shop-locator-app.git
+cd nearby-shop-locator-app
 
 # Getting Started
 
