@@ -9,7 +9,6 @@ A **React Native** app that locates and displays nearby shops based on the user'
 
 - 📍 Fetches real-time user location
 - 🗺️ Displays nearby shops with distance and image
-- 🌗 Light/Dark theme toggle
 - ⚡ Shimmer loading animation
 - 🔍 Adjustable search distance (e.g., 2 km, 5 km, etc.)
 - 🚫 Shows "Not available in your area" if no shops nearby
